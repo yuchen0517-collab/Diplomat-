@@ -1,0 +1,2 @@
+# 网页版与命令行 Agent 仅使用 Python 3.10+ 标准库，无需安装第三方依赖。
+# 仅维护 Excel 知识库并运行 knowledge/导入事实卡.py 时，另需：openpyxl>=3.1,<4
